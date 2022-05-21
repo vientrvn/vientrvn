@@ -7,7 +7,7 @@
 <p>
   <img src="https://media-exp1.licdn.com/dms/image/C4E03AQFwx8cglQYJMQ/profile-displayphoto-shrink_800_800/0/1651514881281?e=1657756800&v=beta&t=lsW8E7RFR1myd7zZWn8v5fhmfkruqS5wAieYgvekW3Q" width="400" align="right">
   
-- 👨‍💼 I'm currently my Bachelor of Science in Computer Science. <!-- check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a> -->
+- 👨‍💼 I'm currently pursuing my Bachelor of Science in Computer Science. <!-- check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a> -->
   
 - 👷‍ I am graduating in Fall 2024.
   
