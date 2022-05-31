@@ -13,7 +13,7 @@
   
 - ⏳ I am currently working on uploading and organizing all of my works on Github. Thank you for your understanding.
 
-- 💬 Ask me about my experience, background, projects, current college life or anything else!
+- 💬 Ask me about my experience, background, projects, current college life, future plans or anything else!
 - 🥂 Cheers!
 
 </p>
