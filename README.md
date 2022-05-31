@@ -9,7 +9,7 @@
   
 - 👨‍💼 I'm currently pursuing my Bachelor of Science in Computer Science. <!-- check out my <a href=https://itsjafer.com/Jafer_Haider_Resume.pdf> resume</a> -->
   
-- 👷‍ I am graduating in Fall 2024.
+- 👷‍ I am graduating in 2024.
   
 - ⏳ I am currently working on uploading and organizing all of my works on Github. Thank you for your understanding.
 
